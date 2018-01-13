@@ -9,9 +9,9 @@ define( function( require ) {
   'use strict';
 
   // modules
+  var CountingScreen = require( 'AREA_MODEL_COMMON/screens/CountingScreen' );
   var Sim = require( 'JOIST/Sim' );
   var SimLauncher = require( 'JOIST/SimLauncher' );
-  var AreaModelCountingScreen = require( 'AREA_MODEL_COUNTING/area-model-counting/AreaModelCountingScreen' );
 
   // strings
   var areaModelCountingTitleString = require( 'string!AREA_MODEL_COUNTING/area-model-counting.title' );
@@ -29,7 +29,7 @@ define( function( require ) {
   };
 
   SimLauncher.launch( function() {
-    var sim = new Sim( areaModelCountingTitleString, [ new AreaModelCountingScreen() ], simOptions );
+    var sim = new Sim( areaModelCountingTitleString, [ new CountingScreen() ], simOptions );
     sim.start();
   } );
 } );
