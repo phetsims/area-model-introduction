@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-counting 1.0.0-dev.2 Fri Jan 12 2018 23:11:27 GMT-0700 (Mountain Standard Time)",
+  "comment": "# area-model-counting 1.0.0-dev.3 Tue Jan 16 2018 15:24:55 GMT-0700 (Mountain Standard Time)",
   "area-model-common": {
     "sha": "47434e14d7c0c45907025349685437c70807cff4",
     "branch": "master"
   },
   "area-model-counting": {
-    "sha": "6912712d9d9e3c8e0811a45d65ac4be800d62fb3",
+    "sha": "5736e0f1527ccc65c8ee3b84bd10ecdfcc97bbd5",
     "branch": "master"
   },
   "assert": {
@@ -13,7 +13,7 @@
     "branch": "master"
   },
   "axon": {
-    "sha": "104f3dcfcb3741a7444b8a31bc4605692801ac25",
+    "sha": "a8c2e77044151202688d0837c9315ed95eb4f52a",
     "branch": "master"
   },
   "brand": {
@@ -21,8 +21,8 @@
     "branch": "master"
   },
   "chipper": {
-    "sha": "e31f00a8e3899358dcf9d160d176e905515b9771",
-    "branch": "2.0"
+    "sha": "8465a264b48e603486e46dc63b7d003dca552ad3",
+    "branch": "master"
   },
   "dot": {
     "sha": "ee4d0e25e4e21f798e94275623885a09f50e1831",
@@ -57,12 +57,12 @@
     "branch": "master"
   },
   "phet-io-wrapper-sonification": {
-    "sha": "eed6520742f79419a7e78a55b91e391b678a5a61",
+    "sha": "a8ed79cbc1e5dd4458394b5546ea189185b3ce7c",
     "branch": "master"
   },
   "phet-io-wrappers": {
     "sha": "7b8b1c04a5cb0cfaa26df758e2e971cd5a385965",
-    "branch": "chipper2.0"
+    "branch": "master"
   },
   "phetcommon": {
     "sha": "85d7262630dc9daca6d79e3453dde266dfa7c69b",
