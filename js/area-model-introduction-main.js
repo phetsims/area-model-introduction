@@ -9,7 +9,8 @@ define( function( require ) {
   'use strict';
 
   // modules
-  var CountingScreen = require( 'AREA_MODEL_COMMON/screens/CountingScreen' );
+  var MultiplyScreen = require( 'AREA_MODEL_COMMON/screens/MultiplyScreen' );
+  var PartitionScreen = require( 'AREA_MODEL_COMMON/screens/PartitionScreen' );
   var Sim = require( 'JOIST/Sim' );
   var SimLauncher = require( 'JOIST/SimLauncher' );
 
@@ -29,7 +30,10 @@ define( function( require ) {
   };
 
   SimLauncher.launch( function() {
-    var sim = new Sim( areaModelIntroductionTitleString, [ new CountingScreen() ], simOptions );
+    var sim = new Sim( areaModelIntroductionTitleString, [
+      new MultiplyScreen(),
+      new PartitionScreen()
+    ], simOptions );
     sim.start();
   } );
 } );
