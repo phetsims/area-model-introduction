@@ -1,16 +1,16 @@
 {
-  "name": "area-model-counting",
+  "name": "area-model-introduction",
   "version": "1.0.0-dev.3",
   "license": "GPL-3.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/phetsims/area-model-counting.git"
+    "url": "https://github.com/phetsims/area-model-introduction.git"
   },
   "devDependencies": {
     "grunt": "~1.0.0"
   },
   "phet": {
-    "requirejsNamespace": "AREA_MODEL_COUNTING",
+    "requirejsNamespace": "AREA_MODEL_INTRODUCTION",
     "phetLibs": [
       "area-model-common",
       "twixt",

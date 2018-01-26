@@ -14,7 +14,7 @@ define( function( require ) {
   var SimLauncher = require( 'JOIST/SimLauncher' );
 
   // strings
-  var areaModelCountingTitleString = require( 'string!AREA_MODEL_COUNTING/area-model-counting.title' );
+  var areaModelIntroductionTitleString = require( 'string!AREA_MODEL_INTRODUCTION/area-model-introduction.title' );
 
   var simOptions = {
     credits: {
@@ -29,7 +29,7 @@ define( function( require ) {
   };
 
   SimLauncher.launch( function() {
-    var sim = new Sim( areaModelCountingTitleString, [ new CountingScreen() ], simOptions );
+    var sim = new Sim( areaModelIntroductionTitleString, [ new CountingScreen() ], simOptions );
     sim.start();
   } );
 } );
