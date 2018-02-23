@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-introduction 1.0.0-dev.9 Wed Feb 21 2018 16:08:19 GMT-0700 (Mountain Standard Time)",
+  "comment": "# area-model-introduction 1.0.0-dev.10 Fri Feb 23 2018 15:18:43 GMT-0700 (Mountain Standard Time)",
   "area-model-common": {
-    "sha": "1b5bb057a1a2cd5b5d2034e57d227b27cc76d940",
+    "sha": "80d380d9a3788f8801b3737e609bc3ee52b23a80",
     "branch": "master"
   },
   "area-model-introduction": {
-    "sha": "e590c88f349bb6f8bd82d488e8555e4cec38c8fe",
+    "sha": "a92806c4e1d1715764bc0b67b46d4679b3d345c8",
     "branch": "master"
   },
   "assert": {
@@ -13,7 +13,7 @@
     "branch": "master"
   },
   "axon": {
-    "sha": "451b8b06fa656e43a246be0bf7d38215b0529bfa",
+    "sha": "d855d4bad06556206c28981cb29213be4a7addc2",
     "branch": "master"
   },
   "brand": {
@@ -21,7 +21,7 @@
     "branch": "master"
   },
   "chipper": {
-    "sha": "10125b6e274c1f89873a890218dbee0ad96e6dcd",
+    "sha": "c6fe1631b53d37102f8c79aee0f3796b546b5b12",
     "branch": "master"
   },
   "dot": {
@@ -57,15 +57,11 @@
     "branch": "master"
   },
   "phet-io-wrapper-sonification": {
-    "sha": "f065401020024ab32f83fab8b9c4634f1210cc09",
-    "branch": "master"
-  },
-  "phet-io-wrapper-visualizing-engagement": {
-    "sha": "ebf46abe7b9ef322accc614d8c829644d23402f9",
+    "sha": "7d51caa928215fc49cd1751d7f73ab9d70506957",
     "branch": "master"
   },
   "phet-io-wrappers": {
-    "sha": "5f7fe58c63ffeda700cf08052b83e9f858744a7b",
+    "sha": "a5da693caa7cf2c7604db1f636050169f812fe70",
     "branch": "master"
   },
   "phetcommon": {
@@ -77,7 +73,7 @@
     "branch": "master"
   },
   "scenery": {
-    "sha": "b7a139d915a054e6bd801252668ef67ff4e77ac3",
+    "sha": "dbacc719fd67fdc9788c13e90083f67e80ec2c74",
     "branch": "master"
   },
   "scenery-phet": {
@@ -89,7 +85,7 @@
     "branch": "master"
   },
   "sun": {
-    "sha": "5be282dd01a0df9afe074c215b2929b3ebce430e",
+    "sha": "962fa3668e65fb3cc3ab6d7284fb39d93979c480",
     "branch": "master"
   },
   "tandem": {
