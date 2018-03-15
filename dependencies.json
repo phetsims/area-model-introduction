@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-introduction 1.0.0-dev.11 Wed Mar 14 2018 02:56:21 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# area-model-introduction 1.0.0-dev.12 Wed Mar 14 2018 19:30:55 GMT-0600 (Mountain Daylight Time)",
   "area-model-common": {
-    "sha": "ca066cd53aac4fab0f4bf032c98a7bfed390f666",
+    "sha": "a5699908dab2e27aabbe33c2372d0201a600ac4d",
     "branch": "master"
   },
   "area-model-introduction": {
-    "sha": "4dceeb214a85ac4bc24e0d13605fb5f601ead409",
+    "sha": "e3d5c26e532cb67e3b2a03c05a5ca61fd754433f",
     "branch": "master"
   },
   "assert": {
@@ -29,7 +29,7 @@
     "branch": "master"
   },
   "joist": {
-    "sha": "c6cecc1fbb728b164519eb1e3050826f22d2935c",
+    "sha": "152a276c0748a93ce666f3bc016eac92d99f23d0",
     "branch": "master"
   },
   "kite": {
@@ -73,7 +73,7 @@
     "branch": "master"
   },
   "scenery-phet": {
-    "sha": "8b1829ff32320ab16c6988ff4cb1e9b1bf6065f3",
+    "sha": "dc01f107ec5a1b69bb8e9cf4d6e8406f25e9b514",
     "branch": "master"
   },
   "sherpa": {
