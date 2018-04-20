@@ -19,13 +19,11 @@ define( function( require ) {
 
   var simOptions = {
     credits: {
-      //TODO fill in proper credits, all of these fields are optional, see joist.AboutDialog
-      leadDesign: '',
-      softwareDevelopment: '',
-      team: '',
-      qualityAssurance: '',
-      graphicArts: '',
-      thanks: ''
+      leadDesign: 'Amy Hanson, Amanda McGarry',
+      softwareDevelopment: 'Jonathan Olson',
+      team: 'Karina Hensberry, Susan Miller, Ariel Paul, Kathy Perkins',
+      qualityAssurance: 'Steele Dalton, Bryce Griebenow, Ethan Johnson, Liam Mulhall, Ben Roberts, Clara Wilson',
+      graphicArts: 'Mariah Hermsmeyer, Amanda McGarry, Diana Lopez Tavares'
     }
   };
 
