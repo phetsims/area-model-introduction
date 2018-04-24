@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-introduction 1.0.0-rc.2 Tue Apr 24 2018 14:35:01 GMT-0600 (MDT)",
+  "comment": "# area-model-introduction 1.0.0-rc.3 Tue Apr 24 2018 14:48:39 GMT-0600 (MDT)",
   "area-model-common": {
     "sha": "19a98806ed37c5ebea25baeb9592b4c611728346",
-    "branch": "area-model-introduction-1.0"
+    "branch": "HEAD"
   },
   "area-model-introduction": {
-    "sha": "c9c9527d287fec837caaedfb2af0148abc25f227",
+    "sha": "7e3c8aadb84ad096b65760e1fae29ac7c8bae5ce",
     "branch": "1.0"
   },
   "assert": {
