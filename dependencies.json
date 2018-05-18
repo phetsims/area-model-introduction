@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-introduction 1.1.0-a11y.0 Thu May 17 2018 19:30:50 GMT-0600 (MDT)",
+  "comment": "# area-model-introduction 1.1.0-a11y.1 Thu May 17 2018 19:35:27 GMT-0600 (MDT)",
   "area-model-common": {
     "sha": "2da6999a1140014b555762f4d2109245b401a6c0",
     "branch": "a11y-tree"
   },
   "area-model-introduction": {
-    "sha": "9f1366bd5ce56481bf2044d352c8ed9e48ae0a3d",
+    "sha": "fd0d8cdcfea6fcf5cc9162c4054d17aea85db89d",
     "branch": "a11y"
   },
   "assert": {
