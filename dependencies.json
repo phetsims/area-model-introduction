@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-introduction 1.0.1-rc.1 Wed Jul 25 2018 01:00:26 GMT-0600 (MDT)",
+  "comment": "# area-model-introduction 1.0.1-rc.2 Wed Jul 25 2018 03:59:17 GMT-0600 (MDT)",
   "area-model-common": {
     "sha": "19a98806ed37c5ebea25baeb9592b4c611728346",
     "branch": "HEAD"
   },
   "area-model-introduction": {
-    "sha": "276420de590df58e633e1681114a7b253e5ff298",
+    "sha": "fb21683334581f70565050aa6d52c96cccee6f3f",
     "branch": "1.0"
   },
   "assert": {
@@ -22,7 +22,7 @@
   },
   "chipper": {
     "sha": "442864075bae38fd9ff9ab4353dc752c40bac64f",
-    "branch": "area-model-introduction-1.0"
+    "branch": "HEAD"
   },
   "dot": {
     "sha": "62f0aa425038a03977362beea8e2310d91feca68",
