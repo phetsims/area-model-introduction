@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-introduction 1.0.1-rc.2 Wed Jul 25 2018 03:59:17 GMT-0600 (MDT)",
+  "comment": "# area-model-introduction 1.0.1-rc.2 Thu Jul 26 2018 16:28:22 GMT-0600 (MDT)",
   "area-model-common": {
     "sha": "19a98806ed37c5ebea25baeb9592b4c611728346",
     "branch": "HEAD"
   },
   "area-model-introduction": {
-    "sha": "fb21683334581f70565050aa6d52c96cccee6f3f",
+    "sha": "e0cabc7b1005ef999d556a20550c8deaf190a60d",
     "branch": "1.0"
   },
   "assert": {
@@ -65,8 +65,8 @@
     "branch": "HEAD"
   },
   "scenery": {
-    "sha": "aeb3b515e2ce9824626c8c60987c1ba21d20be3f",
-    "branch": "HEAD"
+    "sha": "b01c31be50a57b1a64dfb8fea36c8deb4b463229",
+    "branch": "area-model-introduction-1.0"
   },
   "scenery-phet": {
     "sha": "f1ace1bbbe9f759b4415ca9bacd28d3d3e76a782",
