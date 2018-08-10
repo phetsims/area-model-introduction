@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-introduction 1.0.1 Thu Aug 09 2018 20:21:10 GMT-0600 (MDT)",
+  "comment": "# area-model-introduction 1.0.1 Thu Aug 09 2018 23:15:34 GMT-0600 (MDT)",
   "area-model-common": {
     "sha": "19a98806ed37c5ebea25baeb9592b4c611728346",
     "branch": "HEAD"
   },
   "area-model-introduction": {
-    "sha": "406c8a07f10e0fc63d9bdf92b8f61c3c2791a6cf",
+    "sha": "b315e80d20d7a13136dd7205e7a0fe3d2d144d0d",
     "branch": "1.0"
   },
   "assert": {
@@ -21,8 +21,8 @@
     "branch": "HEAD"
   },
   "chipper": {
-    "sha": "442864075bae38fd9ff9ab4353dc752c40bac64f",
-    "branch": "HEAD"
+    "sha": "1fb99a869c0bbe46528c7a2abdd1cf141b3a04ca",
+    "branch": "area-model-introduction-1.0"
   },
   "dot": {
     "sha": "62f0aa425038a03977362beea8e2310d91feca68",
@@ -57,8 +57,8 @@
     "branch": "HEAD"
   },
   "phetcommon": {
-    "sha": "87f374f43502179924014446aa5ac2ef94c21a35",
-    "branch": "HEAD"
+    "sha": "b0c963278cef99e3268a5573823e23d882f12a6e",
+    "branch": "area-model-introduction-1.0"
   },
   "query-string-machine": {
     "sha": "c379f1dbd589dda8f3cc2507dbe9a50d12e05857",
@@ -66,7 +66,7 @@
   },
   "scenery": {
     "sha": "dc12bb702e9951fdd3de6a04addbca532629953c",
-    "branch": "area-model-introduction-1.0"
+    "branch": "HEAD"
   },
   "scenery-phet": {
     "sha": "f1ace1bbbe9f759b4415ca9bacd28d3d3e76a782",
