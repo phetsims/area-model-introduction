@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-introduction 1.0.2 Tue Oct 30 2018 13:28:13 GMT-0600 (MDT)",
+  "comment": "# area-model-introduction 1.0.3-rc.1 Tue Oct 30 2018 15:20:09 GMT-0600 (MDT)",
   "area-model-common": {
     "sha": "19a98806ed37c5ebea25baeb9592b4c611728346",
     "branch": "HEAD"
   },
   "area-model-introduction": {
-    "sha": "b9bbba02fa9696c9f49a7b01d2744fcfb42b88de",
+    "sha": "8c02a9edb08fd7a40f7418fc8a7db1f27ff51f9c",
     "branch": "1.0"
   },
   "assert": {
@@ -30,7 +30,7 @@
   },
   "joist": {
     "sha": "7f814665ef8e1e9c0faab18552118c44d9efff93",
-    "branch": "area-model-introduction-1.0"
+    "branch": "HEAD"
   },
   "kite": {
     "sha": "b607147875dca2c350235f96d4f5546617bc6e4b",
