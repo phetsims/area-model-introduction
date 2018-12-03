@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-introduction 1.1.0-rc.1 Fri Nov 30 2018 13:05:18 GMT-0700 (Mountain Standard Time)",
+  "comment": "# area-model-introduction 1.1.0-rc.1 Mon Dec 03 2018 12:18:59 GMT-0700 (Mountain Standard Time)",
   "area-model-common": {
     "sha": "72f057d1138ea2c3c947dac4d3fa8dc4c8e5a131",
     "branch": "HEAD"
   },
   "area-model-introduction": {
-    "sha": "17c283076a2e443f618c5b012f41a9d3a00d6965",
+    "sha": "8ca0dccb5ad46d7f70c6dd5b91b2e4bd1aad7a1f",
     "branch": "1.1"
   },
   "assert": {
@@ -89,8 +89,8 @@
     "branch": "HEAD"
   },
   "tandem": {
-    "sha": "3f6559f497a4d9dd6e6db618d512c1779e8a65ea",
-    "branch": "HEAD"
+    "sha": "7134621c192a374fefd42356268a635235d28f45",
+    "branch": "area-model-introduction-1.1"
   },
   "twixt": {
     "sha": "3ef1cdc0750f90657ee3971d115a377a293ee852",
