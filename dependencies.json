@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-introduction 1.0.3 Tue Nov 06 2018 10:37:05 GMT-0700 (MST)",
+  "comment": "# area-model-introduction 1.0.3 Tue Mar 05 2019 14:22:25 GMT-0500 (EST)",
   "area-model-common": {
     "sha": "19a98806ed37c5ebea25baeb9592b4c611728346",
     "branch": "HEAD"
   },
   "area-model-introduction": {
-    "sha": "8f71142273ff5ac48483db7738aef092c2ea7c51",
+    "sha": "0ffa1d1866cc0db4d2ccfa34e569da6aae27978a",
     "branch": "1.0"
   },
   "assert": {
@@ -17,8 +17,8 @@
     "branch": "HEAD"
   },
   "brand": {
-    "sha": "89d28f6309a83eb51b6c1fc0130e76ad7935f09e",
-    "branch": "HEAD"
+    "sha": "e3915f1ea98e1cc6ab5f4ea601cba0d8b0b51ed7",
+    "branch": "area-model-introduction-1.0"
   },
   "chipper": {
     "sha": "1fb99a869c0bbe46528c7a2abdd1cf141b3a04ca",
@@ -29,8 +29,8 @@
     "branch": "HEAD"
   },
   "joist": {
-    "sha": "7f814665ef8e1e9c0faab18552118c44d9efff93",
-    "branch": "HEAD"
+    "sha": "b31d0c7486b03c7e6c877eac5122cfa095935927",
+    "branch": "area-model-introduction-1.0"
   },
   "kite": {
     "sha": "b607147875dca2c350235f96d4f5546617bc6e4b",
