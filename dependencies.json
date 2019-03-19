@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-introduction 1.1.0-rc.2 Tue Mar 19 2019 14:19:09 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# area-model-introduction 1.1.0-rc.2 Tue Mar 19 2019 14:20:08 GMT-0600 (Mountain Daylight Time)",
   "area-model-common": {
     "sha": "1f66b1367629b6f8e6da61ce6c93f35c5ff35775",
     "branch": "HEAD"
   },
   "area-model-introduction": {
-    "sha": "bbea46176d9fe4abd5805fda6d816f60c51df681",
+    "sha": "7b1cb99074339807d8cd8de76a02e5f00265e4b6",
     "branch": "1.1"
   },
   "assert": {
@@ -18,7 +18,7 @@
   },
   "brand": {
     "sha": "7034486b5c4cc1691de2c11a050d599d3fda2971",
-    "branch": "area-model-introduction-1.1"
+    "branch": "HEAD"
   },
   "chipper": {
     "sha": "0b9b6c00c0b1c2fd183a47cac8422ea988cdedfb",
@@ -29,8 +29,8 @@
     "branch": "HEAD"
   },
   "joist": {
-    "sha": "88658dbb43ae78d16ce698545f604d6173176eeb",
-    "branch": "HEAD"
+    "sha": "1e17f3f44c805e6280e4f0f9bc8f06d2dc4305f2",
+    "branch": "area-model-introduction-1.1"
   },
   "kite": {
     "sha": "f3e96e5be87a05857884be53454161de1600d65d",
