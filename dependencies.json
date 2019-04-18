@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-introduction 1.0.4 Thu Apr 11 2019 16:34:55 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# area-model-introduction 1.0.5-rc.1 Wed Apr 17 2019 16:53:52 GMT-0800 (Alaskan Daylight Time)",
   "area-model-common": {
     "sha": "19a98806ed37c5ebea25baeb9592b4c611728346",
     "branch": "HEAD"
   },
   "area-model-introduction": {
-    "sha": "4b0c711979a26a44adcc4e7fadbeb2b8f97d409c",
+    "sha": "a4f5927288250aaba3eaebaff0c40bc37283fa3f",
     "branch": "1.0"
   },
   "assert": {
@@ -22,7 +22,7 @@
   },
   "chipper": {
     "sha": "ece8a4022d43e5a727109b4b16873cdffcb1cec9",
-    "branch": "area-model-introduction-1.0"
+    "branch": "HEAD"
   },
   "dot": {
     "sha": "62f0aa425038a03977362beea8e2310d91feca68",
