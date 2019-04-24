@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-introduction 1.0.5-rc.1 Wed Apr 17 2019 16:53:52 GMT-0800 (Alaskan Daylight Time)",
+  "comment": "# area-model-introduction 1.0.5 Wed Apr 24 2019 14:05:59 GMT-0800 (Alaskan Daylight Time)",
   "area-model-common": {
     "sha": "19a98806ed37c5ebea25baeb9592b4c611728346",
     "branch": "HEAD"
   },
   "area-model-introduction": {
-    "sha": "a4f5927288250aaba3eaebaff0c40bc37283fa3f",
+    "sha": "1929105fe2b0717b53c53a2b030b0baeaeeb0b3c",
     "branch": "1.0"
   },
   "assert": {
