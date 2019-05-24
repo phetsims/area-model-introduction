@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-introduction 1.2.0-rc.1 Fri May 10 2019 14:05:57 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# area-model-introduction 1.2.0-rc.1 Fri May 24 2019 14:19:54 GMT-0600 (Mountain Daylight Time)",
   "area-model-common": {
     "sha": "6b9ffca56e01d9b585cf4956215172d96a648be3",
     "branch": "HEAD"
   },
   "area-model-introduction": {
-    "sha": "de800c1cf7dac430bcbeceed0485eb79b57eec68",
+    "sha": "705c730105b96d6b53488c60ecb1890a85db6c24",
     "branch": "1.2"
   },
   "assert": {
@@ -21,8 +21,8 @@
     "branch": "HEAD"
   },
   "chipper": {
-    "sha": "f38031454c5b279f0579557b5546cb04f363166d",
-    "branch": "HEAD"
+    "sha": "5b276518df6eb936574600ba9597f4bb7120411e",
+    "branch": "area-model-introduction-1.2"
   },
   "dot": {
     "sha": "1faeedbac0bf5f79d653d591e370e9a551082711",
@@ -42,18 +42,6 @@
   },
   "phet-io": {
     "sha": "781c86ab3d4cf355869891a07049a002b16e946e",
-    "branch": "HEAD"
-  },
-  "phet-io-wrapper-classroom-activity": {
-    "sha": "248958109c8d3b73b5f9d6c31015b2c8b5016571",
-    "branch": "HEAD"
-  },
-  "phet-io-wrapper-hookes-law-energy": {
-    "sha": "3ea0d43712de26832a841086365544fa930fe458",
-    "branch": "HEAD"
-  },
-  "phet-io-wrapper-lab-book": {
-    "sha": "e5309c0d655079dede0616b5aa637e624e978242",
     "branch": "HEAD"
   },
   "phet-io-wrappers": {
