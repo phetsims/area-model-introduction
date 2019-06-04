@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-introduction 1.2.0-rc.1 Fri May 31 2019 16:27:00 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# area-model-introduction 1.2.0-rc.1 Tue Jun 04 2019 10:55:44 GMT-0600 (Mountain Daylight Time)",
   "area-model-common": {
-    "sha": "e5a6ac2fae2028725c6920c561ee34fe6d761851",
+    "sha": "4fd9f946758b3246112e4832b914da586395c6b0",
     "branch": "area-model-introduction-1.2"
   },
   "area-model-introduction": {
-    "sha": "a536e70c56e5cef3a39863509d14ea4560380124",
+    "sha": "7387ce6a088f276670c04c9d55ff911a035fb055",
     "branch": "1.2"
   },
   "assert": {
