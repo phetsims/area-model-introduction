@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-introduction 1.2.0-rc.1 Thu Jun 06 2019 10:22:29 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# area-model-introduction 1.2.0-rc.2 Thu Jun 06 2019 10:29:01 GMT-0600 (Mountain Daylight Time)",
   "area-model-common": {
     "sha": "b915e69fabf57b25f37a6b43085cc285c85adb0e",
-    "branch": "area-model-introduction-1.2"
+    "branch": "HEAD"
   },
   "area-model-introduction": {
-    "sha": "5b5cae014589ec20607ee2e0b6773f4c0730422c",
+    "sha": "eb364c1737aa267a9698fc4cf1a5dd7514653b20",
     "branch": "1.2"
   },
   "assert": {
@@ -90,6 +90,6 @@
   },
   "vegas": {
     "sha": "75a7d1f2ee09dc3f943ebf47b89aa46240e0e601",
-    "branch": "area-model-introduction-1.2"
+    "branch": "HEAD"
   }
 }
