@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-introduction 1.0.6 Mon Jun 10 2019 10:16:55 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# area-model-introduction 1.0.6 Fri Jul 05 2019 13:31:35 GMT-0600 (Mountain Daylight Time)",
   "area-model-common": {
     "sha": "19a98806ed37c5ebea25baeb9592b4c611728346",
     "branch": "HEAD"
   },
   "area-model-introduction": {
-    "sha": "8b48bd2805b05ba13352cbf30b7985c37065fae7",
+    "sha": "85644133cb5f99a4584adb8e96948519ca5150e3",
     "branch": "1.0"
   },
   "assert": {
@@ -49,8 +49,8 @@
     "branch": "HEAD"
   },
   "phetcommon": {
-    "sha": "b0c963278cef99e3268a5573823e23d882f12a6e",
-    "branch": "HEAD"
+    "sha": "f64d16d0ddae7ead87072f9f7eecd87a060cdc46",
+    "branch": "area-model-introduction-1.0"
   },
   "phetmarks": {
     "sha": "0eba2ef2cb11977efd63cc5471ed35c80dac2fd4",
