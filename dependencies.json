@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-introduction 1.2.0-rc.3 Fri Jul 26 2019 12:43:58 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# area-model-introduction 1.2.0-rc.3 Mon Aug 19 2019 12:28:22 GMT-0600 (Mountain Daylight Time)",
   "area-model-common": {
     "sha": "876621ed302f40dea8833652d968d00df7e3f260",
     "branch": "HEAD"
   },
   "area-model-introduction": {
-    "sha": "8f73567940afbe7bfce8f7ed2c11b957020756e5",
+    "sha": "9d2741eebba92799d79ef5fb60daa6d52666b000",
     "branch": "1.2"
   },
   "assert": {
@@ -29,8 +29,8 @@
     "branch": "HEAD"
   },
   "joist": {
-    "sha": "450d68d35d3da43d1530d76fc6dc038d135d3dde",
-    "branch": "HEAD"
+    "sha": "e3ac491f647decd8a6839ddf9131524893976ecf",
+    "branch": "area-model-introduction-1.2"
   },
   "kite": {
     "sha": "eced67f365a308d08dc5277a27765726f5fe79eb",
@@ -50,7 +50,7 @@
   },
   "phetcommon": {
     "sha": "5caab3c237c6ac18f51b00e05031e41d28adcb20",
-    "branch": "area-model-introduction-1.2"
+    "branch": "HEAD"
   },
   "phetmarks": {
     "sha": "01cbbd71ad4ca7d29bf68de518e0d3215acf3528",
@@ -61,12 +61,12 @@
     "branch": "HEAD"
   },
   "scenery": {
-    "sha": "8ce157dcb57fd2122e2e335a6cf6bde1168435ef",
-    "branch": "HEAD"
+    "sha": "280c762bdeb09fd935a012c242bc81dcd0c03247",
+    "branch": "area-model-introduction-1.2"
   },
   "scenery-phet": {
-    "sha": "835393c43779b61a68da46bc742a4b2f8259c706",
-    "branch": "HEAD"
+    "sha": "4b1bbd0f08da96c1c2e3fd26a0035e88eaaab1d4",
+    "branch": "area-model-introduction-1.2"
   },
   "sherpa": {
     "sha": "16758e7eb83b686d49afc912e4056b68f05376a1",
