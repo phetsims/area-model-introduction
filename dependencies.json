@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-introduction 1.2.0-rc.4 Mon Aug 26 2019 10:18:13 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# area-model-introduction 1.2.0-rc.4 Mon Sep 09 2019 10:53:30 GMT-0600 (Mountain Daylight Time)",
   "area-model-common": {
     "sha": "876621ed302f40dea8833652d968d00df7e3f260",
     "branch": "HEAD"
   },
   "area-model-introduction": {
-    "sha": "62f823d62d6d555a27d1e7089a5673b9ccc6a5a9",
+    "sha": "4f38e6741ec070947ad2a705a68129647e566077",
     "branch": "1.2"
   },
   "assert": {
@@ -29,8 +29,8 @@
     "branch": "HEAD"
   },
   "joist": {
-    "sha": "e3ac491f647decd8a6839ddf9131524893976ecf",
-    "branch": "HEAD"
+    "sha": "3a92b915f6447e90a1c92d815ac61370cc22be1b",
+    "branch": "area-model-introduction-1.2"
   },
   "kite": {
     "sha": "eced67f365a308d08dc5277a27765726f5fe79eb",
