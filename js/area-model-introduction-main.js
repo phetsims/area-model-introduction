@@ -5,17 +5,17 @@
  *
  * @author Jonathan Olson <jonathan.olson@colorado.edu>
  */
-define( function( require ) {
+define( require => {
   'use strict';
 
   // modules
-  var MultiplyScreen = require( 'AREA_MODEL_COMMON/screens/MultiplyScreen' );
-  var PartitionScreen = require( 'AREA_MODEL_COMMON/screens/PartitionScreen' );
-  var Sim = require( 'JOIST/Sim' );
-  var SimLauncher = require( 'JOIST/SimLauncher' );
+  const MultiplyScreen = require( 'AREA_MODEL_COMMON/screens/MultiplyScreen' );
+  const PartitionScreen = require( 'AREA_MODEL_COMMON/screens/PartitionScreen' );
+  const Sim = require( 'JOIST/Sim' );
+  const SimLauncher = require( 'JOIST/SimLauncher' );
 
   // strings
-  var areaModelIntroductionTitleString = require( 'string!AREA_MODEL_INTRODUCTION/area-model-introduction.title' );
+  const areaModelIntroductionTitleString = require( 'string!AREA_MODEL_INTRODUCTION/area-model-introduction.title' );
 
   var simOptions = {
     credits: {
