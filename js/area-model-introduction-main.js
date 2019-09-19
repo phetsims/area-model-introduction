@@ -17,7 +17,7 @@ define( require => {
   // strings
   const areaModelIntroductionTitleString = require( 'string!AREA_MODEL_INTRODUCTION/area-model-introduction.title' );
 
-  var simOptions = {
+  const simOptions = {
     credits: {
       leadDesign: 'Amy Hanson, Amanda McGarry',
       softwareDevelopment: 'Jonathan Olson',
@@ -28,7 +28,7 @@ define( require => {
   };
 
   SimLauncher.launch( function() {
-    var sim = new Sim( areaModelIntroductionTitleString, [
+    const sim = new Sim( areaModelIntroductionTitleString, [
       new MultiplyScreen(),
       new PartitionScreen()
     ], simOptions );
