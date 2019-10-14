@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-introduction 1.2.0-rc.4 Mon Sep 23 2019 14:23:40 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# area-model-introduction 1.2.0-rc.4 Mon Oct 14 2019 12:23:36 GMT-0600 (Mountain Daylight Time)",
   "area-model-common": {
     "sha": "876621ed302f40dea8833652d968d00df7e3f260",
     "branch": "HEAD"
   },
   "area-model-introduction": {
-    "sha": "8c556314d18e6ec4e72edd930f9fdd054cf7f438",
+    "sha": "3ee7b6a585911f07509050564746343b17cfb6df",
     "branch": "1.2"
   },
   "assert": {
@@ -37,8 +37,8 @@
     "branch": "HEAD"
   },
   "phet-core": {
-    "sha": "f63e235e2a4fe67d51f4b998202abd9ef59ceee9",
-    "branch": "HEAD"
+    "sha": "9213da0a4645653d8a263b72de9f5d1ba8adb882",
+    "branch": "area-model-introduction-1.2"
   },
   "phet-io": {
     "sha": "781c86ab3d4cf355869891a07049a002b16e946e",
@@ -62,7 +62,7 @@
   },
   "scenery": {
     "sha": "0359991e6756a7c5ec6d4b57cfc700a9a43a1add",
-    "branch": "area-model-introduction-1.2"
+    "branch": "HEAD"
   },
   "scenery-phet": {
     "sha": "4b1bbd0f08da96c1c2e3fd26a0035e88eaaab1d4",
