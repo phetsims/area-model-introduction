@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-introduction 1.0.11 Mon Oct 14 2019 12:21:28 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# area-model-introduction 1.0.11 Tue Oct 15 2019 12:18:10 GMT-0600 (Mountain Daylight Time)",
   "area-model-common": {
     "sha": "19a98806ed37c5ebea25baeb9592b4c611728346",
     "branch": "HEAD"
   },
   "area-model-introduction": {
-    "sha": "8dcdf0a19d7fc9bd77295e1162941ee606f65a3b",
+    "sha": "ac1f4c0f4aa60eed114b569488ce1c763564de70",
     "branch": "1.0"
   },
   "assert": {
@@ -37,7 +37,7 @@
     "branch": "HEAD"
   },
   "phet-core": {
-    "sha": "2995f3497986eec8c9e6e3677a689e4af0a94015",
+    "sha": "652096e01f8a1a6cd4ad79c63086cf2d8116f3fe",
     "branch": "area-model-introduction-1.0"
   },
   "phet-io": {
@@ -90,6 +90,6 @@
   },
   "vibe": {
     "sha": "69f6f2d03eb28f6d624795233e89ac493653ca97",
-    "branch": "area-model-introduction-1.0"
+    "branch": "HEAD"
   }
 }
