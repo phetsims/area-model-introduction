@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-introduction 1.2.0-rc.4 Mon Oct 14 2019 12:23:36 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# area-model-introduction 1.2.0-rc.4 Tue Oct 15 2019 12:19:43 GMT-0600 (Mountain Daylight Time)",
   "area-model-common": {
     "sha": "876621ed302f40dea8833652d968d00df7e3f260",
     "branch": "HEAD"
   },
   "area-model-introduction": {
-    "sha": "3ee7b6a585911f07509050564746343b17cfb6df",
+    "sha": "36104be7a6cf68bb5aea139fb6e655ef5ac0c86b",
     "branch": "1.2"
   },
   "assert": {
@@ -37,7 +37,7 @@
     "branch": "HEAD"
   },
   "phet-core": {
-    "sha": "9213da0a4645653d8a263b72de9f5d1ba8adb882",
+    "sha": "947f435b37d186970219d197be165e9cadf601c7",
     "branch": "area-model-introduction-1.2"
   },
   "phet-io": {
