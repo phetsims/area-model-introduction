@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-introduction 1.2.0-rc.4 Tue Oct 15 2019 12:19:43 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# area-model-introduction 1.2.0-rc.4 Fri Oct 18 2019 15:45:07 GMT-0600 (Mountain Daylight Time)",
   "area-model-common": {
     "sha": "876621ed302f40dea8833652d968d00df7e3f260",
     "branch": "HEAD"
   },
   "area-model-introduction": {
-    "sha": "36104be7a6cf68bb5aea139fb6e655ef5ac0c86b",
+    "sha": "0e0ef2b26b3d38233ed70dfb73b6154929cfe51b",
     "branch": "1.2"
   },
   "assert": {
@@ -38,7 +38,7 @@
   },
   "phet-core": {
     "sha": "947f435b37d186970219d197be165e9cadf601c7",
-    "branch": "area-model-introduction-1.2"
+    "branch": "HEAD"
   },
   "phet-io": {
     "sha": "781c86ab3d4cf355869891a07049a002b16e946e",
@@ -77,8 +77,8 @@
     "branch": "HEAD"
   },
   "tambo": {
-    "sha": "4ee7a5f1ace53a5caf43ef2a0a548c779a847fb6",
-    "branch": "HEAD"
+    "sha": "f2c09f460bdd2d488185b854fb02a133d9f81a27",
+    "branch": "area-model-introduction-1.2"
   },
   "tandem": {
     "sha": "548feba743e8b59a278edea4c99fa4966e403463",
