@@ -10,7 +10,7 @@ import MultiplyScreen from '../../area-model-common/js/screens/MultiplyScreen.js
 import PartitionScreen from '../../area-model-common/js/screens/PartitionScreen.js';
 import Sim from '../../joist/js/Sim.js';
 import SimLauncher from '../../joist/js/SimLauncher.js';
-import areaModelIntroductionStrings from './area-model-introduction-strings.js';
+import areaModelIntroductionStrings from './areaModelIntroductionStrings.js';
 
 const areaModelIntroductionTitleString = areaModelIntroductionStrings[ 'area-model-introduction' ].title;
 
