@@ -9,7 +9,7 @@
 import MultiplyScreen from '../../area-model-common/js/screens/MultiplyScreen.js';
 import PartitionScreen from '../../area-model-common/js/screens/PartitionScreen.js';
 import Sim from '../../joist/js/Sim.js';
-import SimLauncher from '../../joist/js/SimLauncher.js';
+import simLauncher from '../../joist/js/simLauncher.js';
 import areaModelIntroductionStrings from './areaModelIntroductionStrings.js';
 
 const areaModelIntroductionTitleString = areaModelIntroductionStrings[ 'area-model-introduction' ].title;
@@ -24,7 +24,7 @@ const simOptions = {
   }
 };
 
-SimLauncher.launch( function() {
+simLauncher.launch( function() {
   const sim = new Sim( areaModelIntroductionTitleString, [
     new MultiplyScreen(),
     new PartitionScreen()
