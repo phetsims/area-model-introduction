@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-introduction 1.2.1 Tue Feb 25 2020 00:46:30 GMT-0700 (Mountain Standard Time)",
+  "comment": "# area-model-introduction 1.2.1 Mon Mar 08 2021 11:53:59 GMT-0500 (Eastern Standard Time)",
   "area-model-common": {
     "sha": "b999f0b34f9abe3826fe9c1e03e96985cf9535c3",
     "branch": "HEAD"
   },
   "area-model-introduction": {
-    "sha": "a034a43e52be69156664dc1290419abdfd98787e",
+    "sha": "aa75f5423a82291df4f5b145b05cad9e3f7728b5",
     "branch": "1.2"
   },
   "assert": {
@@ -53,8 +53,8 @@
     "branch": "HEAD"
   },
   "phetmarks": {
-    "sha": "01cbbd71ad4ca7d29bf68de518e0d3215acf3528",
-    "branch": "HEAD"
+    "sha": "751cd9a4548ba638efea8ede241409a01abe2c77",
+    "branch": "area-model-introduction-1.2"
   },
   "query-string-machine": {
     "sha": "d1e4a8e6eca6c5061c0ae482548d3332a20004b9",
