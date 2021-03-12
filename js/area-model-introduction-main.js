@@ -24,7 +24,7 @@ const simOptions = {
   }
 };
 
-simLauncher.launch( function() {
+simLauncher.launch( () => {
   const sim = new Sim( areaModelIntroductionTitleString, [
     new MultiplyScreen(),
     new PartitionScreen()
