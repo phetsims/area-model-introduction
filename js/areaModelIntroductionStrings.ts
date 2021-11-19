@@ -3,11 +3,17 @@
 /**
  * Auto-generated from modulify, DO NOT manually modify.
  */
-
+/* eslint-disable */
 import getStringModule from '../../chipper/js/getStringModule.js';
 import areaModelIntroduction from './areaModelIntroduction.js';
 
-const areaModelIntroductionStrings = getStringModule( 'AREA_MODEL_INTRODUCTION' );
+type StringsType = {
+  'area-model-introduction': {
+    'title': string
+  }
+};
+
+const areaModelIntroductionStrings = getStringModule( 'AREA_MODEL_INTRODUCTION' ) as StringsType;
 
 areaModelIntroduction.register( 'areaModelIntroductionStrings', areaModelIntroductionStrings );
 
