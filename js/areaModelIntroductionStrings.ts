@@ -5,11 +5,13 @@
  */
 /* eslint-disable */
 import getStringModule from '../../chipper/js/getStringModule.js';
+import TReadOnlyProperty from '../../axon/js/TReadOnlyProperty.js';
 import areaModelIntroduction from './areaModelIntroduction.js';
 
 type StringsType = {
   'area-model-introduction': {
     'title': string;
+    'titleProperty': TReadOnlyProperty<string>;
   }
 };
 
