@@ -11,7 +11,7 @@ import areaModelIntroduction from './areaModelIntroduction.js';
 type StringsType = {
   'area-model-introduction': {
     'title': string;
-    'titleProperty': TReadOnlyProperty<string>;
+    'titleStringProperty': TReadOnlyProperty<string>;
   }
 };
 
