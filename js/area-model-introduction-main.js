@@ -12,7 +12,7 @@ import Sim from '../../joist/js/Sim.js';
 import simLauncher from '../../joist/js/simLauncher.js';
 import areaModelIntroductionStrings from './areaModelIntroductionStrings.js';
 
-const areaModelIntroductionTitleString = areaModelIntroductionStrings[ 'area-model-introduction' ].title;
+const areaModelIntroductionTitleStringProperty = areaModelIntroductionStrings[ 'area-model-introduction' ].titleStringProperty;
 
 const simOptions = {
   credits: {
@@ -25,7 +25,7 @@ const simOptions = {
 };
 
 simLauncher.launch( () => {
-  const sim = new Sim( areaModelIntroductionTitleString, [
+  const sim = new Sim( areaModelIntroductionTitleStringProperty, [
     new MultiplyScreen(),
     new PartitionScreen()
   ], simOptions );
