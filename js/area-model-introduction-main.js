@@ -10,9 +10,9 @@ import MultiplyScreen from '../../area-model-common/js/screens/MultiplyScreen.js
 import PartitionScreen from '../../area-model-common/js/screens/PartitionScreen.js';
 import Sim from '../../joist/js/Sim.js';
 import simLauncher from '../../joist/js/simLauncher.js';
-import areaModelIntroductionStrings from './areaModelIntroductionStrings.js';
+import AreaModelIntroductionStrings from './AreaModelIntroductionStrings.js';
 
-const areaModelIntroductionTitleStringProperty = areaModelIntroductionStrings[ 'area-model-introduction' ].titleStringProperty;
+const areaModelIntroductionTitleStringProperty = AreaModelIntroductionStrings[ 'area-model-introduction' ].titleStringProperty;
 
 const simOptions = {
   credits: {
