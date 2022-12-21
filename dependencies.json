@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-introduction 1.2.6-rc.1 Tue Dec 20 2022 19:43:58 GMT-0700 (Mountain Standard Time)",
+  "comment": "# area-model-introduction 1.2.6 Wed Dec 21 2022 09:40:52 GMT-0700 (Mountain Standard Time)",
   "area-model-common": {
     "sha": "b999f0b34f9abe3826fe9c1e03e96985cf9535c3",
     "branch": "HEAD"
   },
   "area-model-introduction": {
-    "sha": "d3da32c6a400dcece4c68e5091d308227e25a6ba",
+    "sha": "16b27fd13068e2bbac05bf8f106d96e1b0c45975",
     "branch": "1.2"
   },
   "assert": {
