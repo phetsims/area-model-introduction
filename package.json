@@ -23,7 +23,11 @@
       "adapted-from-phet"
     ],
     "accessible": true,
-    "simulation": true
+    "simulation": true,
+    "screenNameKeys": [
+      "AREA_MODEL_COMMON/screen.multiply",
+      "AREA_MODEL_COMMON/screen.partition"
+    ]
   },
   "eslintConfig": {
     "extends": "../chipper/eslint/sim_eslintrc.js"
