@@ -23,7 +23,11 @@
     ],
     "simulation": true,
     "supportsOutputJS": true,
-    "published": true
+    "published": true,
+    "screenNameKeys": [
+      "AREA_MODEL_COMMON/screen.multiply",
+      "AREA_MODEL_COMMON/screen.partition"
+    ]
   },
   "eslintConfig": {
     "extends": "../chipper/eslint/sim_eslintrc.js"
