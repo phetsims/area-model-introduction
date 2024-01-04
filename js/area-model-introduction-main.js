@@ -10,7 +10,6 @@ import MultiplyScreen from '../../area-model-common/js/screens/MultiplyScreen.js
 import PartitionScreen from '../../area-model-common/js/screens/PartitionScreen.js';
 import Sim from '../../joist/js/Sim.js';
 import simLauncher from '../../joist/js/simLauncher.js';
-import soundManager from '../../tambo/js/soundManager.js';
 import AreaModelIntroductionStrings from './AreaModelIntroductionStrings.js';
 
 const areaModelIntroductionTitleStringProperty = AreaModelIntroductionStrings[ 'area-model-introduction' ].titleStringProperty;
@@ -31,6 +30,4 @@ simLauncher.launch( () => {
     new PartitionScreen()
   ], simOptions );
   sim.start();
-
-  soundManager.setOutputLevelForCategory( 'user-interface', 0 );
 } );
