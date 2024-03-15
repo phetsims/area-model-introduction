@@ -100,6 +100,10 @@
     "sha": "e011761bedc8ceb00f31f0943ad129d06ea16206",
     "branch": "HEAD"
   },
+  "utterance-queue": {
+    "sha": "3e4f9e8d9767b86b6b0cc0c8ba57f82fe3dd16ab",
+    "branch": "HEAD"
+  },
   "vibe": {
     "sha": "960a83efd577749b8f3539a86f98563d03017e51",
     "branch": "HEAD"
