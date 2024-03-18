@@ -1,12 +1,12 @@
 {
-  "comment": "# area-model-introduction 1.1.0-dev.1 Thu Jul 26 2018 11:23:33 GMT-0600 (MDT)",
+  "comment": "# area-model-introduction 1.3.0-rc.1 Mon Mar 18 2024 09:40:51 GMT-0600 (Mountain Daylight Saving Time)",
   "area-model-common": {
     "sha": "4e8c2aea34f08e4b2599c403dcc5468bbb099b7b",
     "branch": "HEAD"
   },
   "area-model-introduction": {
-    "sha": "e12f0733af4e3f998278258663fbde44285c1584",
-    "branch": "main"
+    "sha": "26b08813ef038583ab82d7527ace56c173ab2009",
+    "branch": "1.3"
   },
   "assert": {
     "sha": "dd61947e1ba2c0655a242bebad9b887b397b01dd",
@@ -36,6 +36,10 @@
     "sha": "bb6d7e60fc313e358b17861efce2054c78d74ed6",
     "branch": "HEAD"
   },
+  "perennial-alias": {
+    "sha": "63e9458896b1165d59c6908e8c1edb651a53faa3",
+    "branch": "main"
+  },
   "phet-core": {
     "sha": "da246bbf0c16cc2d1e0d2edbdb17f39255802ccf",
     "branch": "HEAD"
@@ -44,17 +48,9 @@
     "sha": "617037c0225c381c76513e0ee5c32a50ca33c4db",
     "branch": "HEAD"
   },
-  "phet-io-wrapper-classroom-activity": {
-    "sha": "6091622cc8f8c4e2585c229074abd3a51ce1b1fe",
-    "branch": "HEAD"
-  },
-  "phet-io-wrapper-hookes-law-energy": {
-    "sha": "51f1f5248f432403e9afb2a9b77ec3cd58dc944c",
-    "branch": "HEAD"
-  },
-  "phet-io-wrapper-lab-book": {
-    "sha": "3d0ed29fc1a369a76ef0d735f63b6d5c1254d106",
-    "branch": "HEAD"
+  "phet-io-sim-specific": {
+    "sha": "b5fcd8734f72bf1c65a574274a9607b0be60b007",
+    "branch": "main"
   },
   "phet-io-wrappers": {
     "sha": "f49272efdfbd0ee0618c8037c6020acc2acf2344",
@@ -63,6 +59,10 @@
   "phetcommon": {
     "sha": "92535c7f8a9739a52821269939d4b39d4e2d8e2d",
     "branch": "HEAD"
+  },
+  "phetmarks": {
+    "sha": "24d75ba3359b4e9af1a33085c9688fb877d54814",
+    "branch": "main"
   },
   "query-string-machine": {
     "sha": "5fbbd97d38c2b32506ad3e711e18832dd85ce28e",
@@ -80,6 +80,10 @@
     "sha": "aa4b6a75a6eacf1cf5945092d5425fd2f7cb4d77",
     "branch": "HEAD"
   },
+  "studio": {
+    "sha": "ea41b45429265bf5a2a8946334cf33b12a97480b",
+    "branch": "main"
+  },
   "sun": {
     "sha": "3ca3587cf67cf830da6c8943c0f4c985ed22af07",
     "branch": "HEAD"
@@ -96,16 +100,12 @@
     "sha": "0f3b8ac8e973c12bd9b9ce30e1e583bb1bf4cd84",
     "branch": "HEAD"
   },
-  "vegas": {
-    "sha": "e011761bedc8ceb00f31f0943ad129d06ea16206",
-    "branch": "HEAD"
-  },
   "utterance-queue": {
     "sha": "3e4f9e8d9767b86b6b0cc0c8ba57f82fe3dd16ab",
     "branch": "HEAD"
   },
-  "vibe": {
-    "sha": "960a83efd577749b8f3539a86f98563d03017e51",
+  "vegas": {
+    "sha": "e011761bedc8ceb00f31f0943ad129d06ea16206",
     "branch": "HEAD"
   }
 }
