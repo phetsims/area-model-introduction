@@ -17,9 +17,9 @@ const areaModelIntroductionTitleStringProperty = AreaModelIntroductionStrings[ '
 const simOptions = {
   credits: {
     leadDesign: 'Amy Hanson, Amanda McGarry',
-    softwareDevelopment: 'Jonathan Olson',
+    softwareDevelopment: 'Jonathan Olson, Luisa Vargas',
     team: 'Karina Hensberry, Susan Miller, Ariel Paul, Kathy Perkins',
-    qualityAssurance: 'Steele Dalton, Bryce Griebenow, Ethan Johnson, Liam Mulhall, Ben Roberts, Jacob Romero, Ethan Ward, Clara Wilson, Kathryn Woessner',
+    qualityAssurance: 'Steele Dalton, Jaron Droder, Bryce Griebenow, Ethan Johnson, Liam Mulhall, Ben Roberts, Jacob Romero, Nancy Salpepi, Ethan Ward, Clara Wilson, Kathryn Woessner',
     graphicArts: 'Mariah Hermsmeyer, Amanda McGarry, Diana L\u00f3pez Tavares'
   }
 };
