@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-introduction 1.3.0-rc.1 Mon Mar 18 2024 09:40:51 GMT-0600 (Mountain Daylight Saving Time)",
+  "comment": "# area-model-introduction 1.3.0-rc.2 Tue Apr 09 2024 21:03:14 GMT-0600 (Mountain Daylight Saving Time)",
   "area-model-common": {
     "sha": "0b60a698299b642a9172e3d34591e6ba3fbf7fd9",
     "branch": "HEAD"
   },
   "area-model-introduction": {
-    "sha": "99a3fcf380c07175a2167837930fa752e8578b68",
+    "sha": "3cf0eb8f6ec58c74eb5f36b81fab4765e6532b15",
     "branch": "1.3"
   },
   "assert": {
@@ -38,7 +38,7 @@
   },
   "perennial-alias": {
     "sha": "63e9458896b1165d59c6908e8c1edb651a53faa3",
-    "branch": "main"
+    "branch": "HEAD"
   },
   "phet-core": {
     "sha": "da246bbf0c16cc2d1e0d2edbdb17f39255802ccf",
@@ -50,7 +50,7 @@
   },
   "phet-io-sim-specific": {
     "sha": "b5fcd8734f72bf1c65a574274a9607b0be60b007",
-    "branch": "main"
+    "branch": "HEAD"
   },
   "phet-io-wrappers": {
     "sha": "f49272efdfbd0ee0618c8037c6020acc2acf2344",
@@ -62,7 +62,7 @@
   },
   "phetmarks": {
     "sha": "24d75ba3359b4e9af1a33085c9688fb877d54814",
-    "branch": "main"
+    "branch": "HEAD"
   },
   "query-string-machine": {
     "sha": "5fbbd97d38c2b32506ad3e711e18832dd85ce28e",
@@ -82,7 +82,7 @@
   },
   "studio": {
     "sha": "ea41b45429265bf5a2a8946334cf33b12a97480b",
-    "branch": "main"
+    "branch": "HEAD"
   },
   "sun": {
     "sha": "3ca3587cf67cf830da6c8943c0f4c985ed22af07",
