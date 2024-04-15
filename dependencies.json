@@ -1,11 +1,11 @@
 {
   "comment": "# area-model-introduction 1.3.0-rc.2 Tue Apr 09 2024 21:03:14 GMT-0600 (Mountain Daylight Saving Time)",
   "area-model-common": {
-    "sha": "0b60a698299b642a9172e3d34591e6ba3fbf7fd9",
+    "sha": "81dd9f4be05eca54cfee7609d8453866a1aaf904",
     "branch": "HEAD"
   },
   "area-model-introduction": {
-    "sha": "3cf0eb8f6ec58c74eb5f36b81fab4765e6532b15",
+    "sha": "c569d564fc9730f2f3da4f1d2f5eafaf0028133f",
     "branch": "1.3"
   },
   "assert": {
