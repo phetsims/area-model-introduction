@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-introduction 1.3.3-rc.1 Tue Jul 16 2024 16:07:44 GMT-0400 (Eastern Daylight Time)",
+  "comment": "# area-model-introduction 1.3.3 Wed Jul 17 2024 16:26:27 GMT-0400 (Eastern Daylight Time)",
   "area-model-common": {
     "sha": "27b6754f4d7cfff6626af21acca950488aa71227",
     "branch": "HEAD"
   },
   "area-model-introduction": {
-    "sha": "b938133eff869b7d8e60dbed87ff750253c71cf6",
+    "sha": "b4af9433a67fa798f96bacbde08db69e61301b47",
     "branch": "1.3"
   },
   "assert": {
