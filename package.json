@@ -16,6 +16,9 @@
       "twixt",
       "vegas"
     ],
+    "simFeatures": {
+      "supportsDynamicLocale": true
+    },
     "runnable": true,
     "supportedBrands": [
       "phet",

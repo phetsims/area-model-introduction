@@ -13,7 +13,6 @@ import areaModelIntroduction from './areaModelIntroduction.js';
 
 type StringsType = {
   'area-model-introduction': {
-    'title': string;
     'titleStringProperty': LocalizedStringProperty;
   }
 };
