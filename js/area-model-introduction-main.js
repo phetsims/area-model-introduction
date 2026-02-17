@@ -3,7 +3,7 @@
 /**
  * Main entry point for the sim.
  *
- * @author Jonathan Olson <jonathan.olson@colorado.edu>
+ * @author Jonathan Olson (PhET Interactive Simulations)
  */
 
 import MultiplyScreen from '../../area-model-common/js/screens/MultiplyScreen.js';
