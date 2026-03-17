@@ -5,7 +5,7 @@
     "branch": "HEAD"
   },
   "area-model-introduction": {
-    "sha": "5090d4a82424b3637d5f0c182eeb462de7e78e6c",
+    "sha": "21e7290874d1565eb1fdf3324950716b80d8cb95",
     "branch": "1.3"
   },
   "assert": {
@@ -37,7 +37,7 @@
     "branch": "HEAD"
   },
   "perennial-alias": {
-    "sha": "63e9458896b1165d59c6908e8c1edb651a53faa3",
+    "sha": "93e05b7ebb3987ebdd9aad616d783ef14073671f",
     "branch": "HEAD"
   },
   "phet-core": {
