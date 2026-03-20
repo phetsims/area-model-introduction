@@ -19,4 +19,6 @@ type StringsType = {
 
 const AreaModelIntroductionStrings = getStringModule( 'AREA_MODEL_INTRODUCTION' ) as StringsType;
 
+areaModelIntroduction.register( 'AreaModelIntroductionStrings', AreaModelIntroductionStrings );
+
 export default AreaModelIntroductionStrings;
