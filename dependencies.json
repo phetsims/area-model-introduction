@@ -5,7 +5,7 @@
     "branch": "HEAD"
   },
   "area-model-introduction": {
-    "sha": "4389ff19e885738305f6cc5150ca9e4b32595141",
+    "sha": "002150f03f2ad25870cd63b0fdba42d4a7feea38",
     "branch": "1.3"
   },
   "assert": {
@@ -69,7 +69,7 @@
     "branch": "HEAD"
   },
   "scenery": {
-    "sha": "b0141288d40560357dc24666bc568c3995855c9b",
+    "sha": "316a8b00377786d4686628cd79cbcce5e6a1456d",
     "branch": "HEAD"
   },
   "scenery-phet": {
